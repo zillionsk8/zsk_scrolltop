@@ -20,6 +20,7 @@ Uses JQuery to add scroll to top functionality to your blog/site
 
 1. Upload plugin to '/wp-content/plugins/' 
 2. Activate plugin through 'Plugins' in WordPress Dashboard.
+3. You can add a different image for the arrow under Settings->zsk Scroll to Top
 
 == Notes ==
 Thanks Yannick Lung for arrow icon :https://www.iconfinder.com/iconsets/freecns-cumulus
