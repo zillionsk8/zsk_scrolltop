@@ -1,0 +1,16 @@
+#zskscrolltop{ 
+	height: 40px; 
+	width: 40px; 
+	background-size:40px 40px;
+	position:fixed;
+	bottom:50px;
+	right:50px;
+	text-indent:-9999px;
+	display:none;
+	z-index:999;
+	cursor:pointer;
+}
+#zsk_scrolltop_image{
+	width:300px;
+}
+
