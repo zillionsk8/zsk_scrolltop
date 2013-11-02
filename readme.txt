@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: zillinsk8
+Contributors: zillionsk8
 Tags: jQuery, scroll, scrolltop
 Requires at least: 3.5
 Tested up to: 3.7.1
