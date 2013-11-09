@@ -13,7 +13,7 @@ wp_enqueue_script('zsk-scrolltop-active', ZSK_TOP_PLUGIN_PATH.'includes/zsk_scro
 wp_enqueue_style('zsk-scrolltop-style', ZSK_TOP_PLUGIN_PATH.'includes/zsk_scrolltop.css');
 
 
-require  ZSK_TOP_PLUGIN_PATH.'includes/adminpage.class.php';
+require plugin_dir_path(__FILE__).'/includes/adminpage.class.php';
 
 
 
