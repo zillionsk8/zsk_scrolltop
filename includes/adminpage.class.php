@@ -1,4 +1,4 @@
-// Settings page Class
+<? // Settings page Class
 class zskSettingsPage{
     /**
      * Holds the values to be used in the fields callbacks
